@@ -4,3 +4,4 @@
 #### Github-Copilot solves problems but not in a specific way you want the problem to be solved.
 #### I wanted A fractel pattern by astrieks in a specific way, but it did a function not printing the way of astrieks in the shape I want.
 #### But printed the astrieks in another form.
+#### Also, I tried to make Github-Copilot computes the average of a vector, Github-Copilot intialized an array not a vector. 
